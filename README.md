@@ -18,7 +18,7 @@ Mi portafolio como desarrolladora, con **tema claro/oscuro**, sección de proyec
   <img src="https://img.shields.io/badge/Repositorio-1ABF9F?style=for-the-badge&logo=github&logoColor=000" />
 </a>
 
-<a href="https://angie-torres-m.github.io/MiPortafolio_AngieTorres/" target="_blank">
+<a href="https://angie-torres-m.github.io/MiPortafolio/" target="_blank">
   <img src="https://img.shields.io/badge/Portafolio-7EE8D1?style=for-the-badge&logo=githubpages&logoColor=000" />
 </a>
 
