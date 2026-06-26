@@ -14,7 +14,7 @@ Actualmente me sigo formando en **Java, bases de datos y nube**, mientras desarr
 
 Mi portafolio como desarrolladora, con **tema claro/oscuro**, sección de proyectos, blog e historia de transición de biología a TI.  
 <div align="center">    
-<a href="https://github.com/Angie-Torres-M/MiPortafolio_AngieTorres" target="_blank">
+<a href="https://github.com/Angie-Torres-M/MiPortafolio" target="_blank">
   <img src="https://img.shields.io/badge/Repositorio-1ABF9F?style=for-the-badge&logo=github&logoColor=000" />
 </a>
 
